@@ -1,2 +1,1 @@
-echo "test8"
-test9
+echo "test10"
