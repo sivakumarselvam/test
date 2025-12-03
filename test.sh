@@ -1,2 +1,2 @@
 echo "test18"
-junk
+echo "test"
