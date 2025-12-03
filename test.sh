@@ -1,2 +1,2 @@
-echo "test23" >> 1.txt 2>&1
+echo "test24" >> 1.txt 2>&1
 echo "test" >> 1.txt 2>&1
